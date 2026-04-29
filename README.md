@@ -1,4 +1,4 @@
-# Operations-Analytics-Dashboard
+# Operations Analytics Dashboard
 ## Work Process & Approach
 
 ### Problem Framing
