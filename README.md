@@ -39,7 +39,8 @@ The project uses five CSV datasets:
 
 
 quick_analysis.py # data processing + aggregations
-dashboard/app.py # Streamlit dashboard
+dashboard/
+└── app.py # Streamlit dashboard
 files/ # input data (sample)
 outputs/ # generated outputs (ignored)
 
@@ -56,7 +57,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## Notes
+Notes
 Data is simulated and covers a limited time period
 Orders are used as a proxy for demand
 No cost/margin data included (analysis based on volume & averages)
