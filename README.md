@@ -53,7 +53,10 @@ pip install -r requirements.txt
 
 python quick_analysis.py
 streamlit run dashboard/app.py
-Notes
+
+---
+
+## Notes
 Data is simulated and covers a limited time period
 Orders are used as a proxy for demand
 No cost/margin data included (analysis based on volume & averages)
